@@ -35,24 +35,4 @@ def __main__():
             print("Try again.\n\n")
     input("\nThanks for rolling!")
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 __main__()
